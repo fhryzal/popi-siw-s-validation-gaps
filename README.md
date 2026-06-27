@@ -1,4 +1,4 @@
-# popi.wtf — SIWS Validation Gaps (Round 2)
+# popi.wtf — SIWS Validation Gaps
 
 **Researcher:** Bores · **Date:** 2026-06-27
 **Repo:** https://github.com/fhryzal/popi-siw-s-validation-gaps
